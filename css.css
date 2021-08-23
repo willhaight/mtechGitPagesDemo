@@ -62,11 +62,11 @@ img {
 
 
 img:hover {
-    -webkit-animation: rotating 2s linear infinite;
-    -moz-animation: rotating 2s linear infinite;
-    -ms-animation: rotating 2s linear infinite;
-    -o-animation: rotating 2s linear infinite;
-    animation: rotating 2s linear infinite;
-    background-color: snow;
+    -webkit-animation: rotating .5s linear infinite;
+    -moz-animation: rotating .5s linear infinite;
+    -ms-animation: rotating .5s linear infinite;
+    -o-animation: rotating .5s linear infinite;
+    animation: rotating .5s linear infinite;
+    background-color: rgb(8, 5, 5);
     box-shadow: 10px 13px 15px 10px maroon
   }
